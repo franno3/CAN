@@ -22,3 +22,5 @@ title: CAN playground
 - Product manual >> [WebPage](https://docs.longan-labs.cc/114992978/)
 - Library - Serial_CAN_FD_Module >> [GitHub](https://github.com/Longan-Labs/Serial_CAN_FD_Module)
 
+![hardware](https://github.com/franno3/CAN/assets/64599057/dca82d70-63e7-46e6-b7db-de77e35bde45)
+

@@ -15,6 +15,7 @@ title: CAN playground
 - 3 x Grove - 4 pin Male Jumper to Grove 4 pin Conversion Cable >> [Product home page](https://www.seeedstudio.com/Grove-4-pin-Male-Jumper-to-Grove-4-pin-Conversion-Cable-5-PCs-per-Pack.html)
 - Alternative: 3 x Grove Base Shield for NodeMCU  >> [Product home page](https://www.seeedstudio.com/Grove-Base-Shield-for-NodeMCU.html) 
 - Optional: MakerBeam profiles >> [Product home page](https://www.makerbeam.com)
+- Optional: Grove Sensor Mount - Large - 3d print >> [thingiverse](https://www.thingiverse.com/thing:2162279)
 
 ## Software
 - Arduino IDE

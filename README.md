@@ -2,7 +2,7 @@
 title: CAN playground
 ---
 # Theory
-
+- CAN bus >> [Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)
 # BOM - bill of material
 ## Hardware
 ### Microcontroler  >> [Shop example](https://www.seeedstudio.com/NodeMCU-v2-Lua-based-ESP8266-development-kit.html)
@@ -18,6 +18,6 @@ title: CAN playground
 
 ## Software
 - Arduino IDE
-- Product manual [WebPage](https://docs.longan-labs.cc/114992978/)
-- Library - Serial_CAN_FD_Module [GitHub](https://github.com/Longan-Labs/Serial_CAN_FD_Module)
+- Product manual >> [WebPage](https://docs.longan-labs.cc/114992978/)
+- Library - Serial_CAN_FD_Module >> [GitHub](https://github.com/Longan-Labs/Serial_CAN_FD_Module)
 

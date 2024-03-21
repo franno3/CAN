@@ -5,8 +5,8 @@ title: CAN playground
 - CAN bus >> [Wikipedia](https://en.wikipedia.org/wiki/CAN_bus)
 # BOM - bill of material
 ## Hardware
-### Microcontroler  >> [Shop example](https://www.seeedstudio.com/NodeMCU-v2-Lua-based-ESP8266-development-kit.html)
-- 3 x NodeMCU v2 ESP8266 
+### Microcontroler
+- 3 x NodeMCU v2 ESP8266 >> [Shop example](https://www.seeedstudio.com/NodeMCU-v2-Lua-based-ESP8266-development-kit.html) 
 ### CAN Bus
 - 3 x Grove - CAN BUS Module based on GD32E103 >> [Product home page](https://www.seeedstudio.com/Grove-CAN-BUS-Module-based-on-GD32E103-p-5456.html)
 ### Others

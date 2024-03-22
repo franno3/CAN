@@ -24,3 +24,7 @@ title: CAN playground
 
 ![hardware](https://github.com/franno3/CAN/assets/64599057/dca82d70-63e7-46e6-b7db-de77e35bde45)
 
+![l1](https://github.com/franno3/CAN/assets/64599057/760eb46a-1936-4025-92c5-90d32fb4fa31)
+![l2](https://github.com/franno3/CAN/assets/64599057/90cc3713-3ed4-48d8-bf34-efd8cede34ee)
+![l3](https://github.com/franno3/CAN/assets/64599057/2db765cc-2016-4164-bc29-3165d46382e1)
+
